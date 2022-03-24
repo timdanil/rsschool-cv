@@ -38,3 +38,10 @@ Write a function that multiplies numbers.
 **Educational project:** https://github.com/timdanil/rsschool-cv
 
 ---
+#### Education:
+**Courses:** 
+1 JavaScript 2021 - Complete Guide from Zero to Pro - by Vladilen Minin
+2 Java Script MAnul on learnjavascript.ru
+3 RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+---
