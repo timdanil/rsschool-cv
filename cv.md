@@ -33,3 +33,8 @@ Write a function that multiplies numbers.
 ``` const multiply = (a, b) => a * b ```
 
 ---
+
+#### Work experience: 
+**Educational project:** https://github.com/timdanil/rsschool-cv
+
+---
