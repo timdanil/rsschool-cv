@@ -24,3 +24,12 @@ My name is Daniil, I am 22 years old, I am a student of PNU, I study applied com
 5. JavaScript Basic
 
 ---
+
+### Code example: 
+**Kata from Codewars:**
+Write a function that multiplies numbers.
+
+**Solution:**
+``` const multiply = (a, b) => a * b ```
+
+---
