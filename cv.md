@@ -1,0 +1,50 @@
+# Daniil Timoshenko
+
+![My photo](https://ibb.co/zGWkDnK)
+
+---
+#### Contact information
+**Phone:** +7 (924)-109-95-21
+**E-mail:** timoshenko_danil@bk.ru
+**Vk:** https://vk.com/id267493576
+**Discrord:** @timdanil
+
+---
+
+#### Briefly About Myself:
+My name is Daniil, I am 22 years old, I am a student of PNU, I study applied computer science in economics, I realized that it was not interesting to work in my specialty and decided to try my hand at programming, then I enrolled in a course in order to work as a Front-end developer in the future.
+
+---
+
+#### Skills and Proficiency:
+1. HTML/CSS/SCss
+2. Git/Github
+3. VS Code
+4. Figma
+5. JavaScript Basic
+
+---
+
+### Code example: 
+**Kata from Codewars:**
+Write a function that multiplies numbers.
+
+**Solution:**
+``` const multiply = (a, b) => a * b ```
+
+---
+
+#### Work experience: 
+**Educational project:** https://github.com/timdanil/rsschool-cv
+
+---
+#### Education:
+**Courses:** 
+1 JavaScript 2021 - Complete Guide from Zero to Pro - by Vladilen Minin
+2 Java Script MAnul on learnjavascript.ru
+3 RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+---
+#### Languages:
+**Russian:** Mastery (C2)
+**English:** Beginner (A1)
