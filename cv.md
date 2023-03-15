@@ -23,14 +23,14 @@ It's up to you to find out whether the cuboid has equal sides (= is a cube).
 Return true if the cuboid could have equal sides, return false otherwise.
 Return false for invalid numbers too (e.g volume or side is less than or equal to 0).
 Note: side will be an integer.*
-``
-(let cubeChecker = function(volume, side){
+
+>(let cubeChecker = function(volume, side){
 	if(volume == side ** 3 && side > 0){
 		return true
 	} else {
 		return false
 	}
-};)
+};).
 ``
 #### Experience
 ---
